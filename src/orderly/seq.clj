@@ -1,4 +1,4 @@
-(ns chan-set.seq
+(ns orderly.seq
   (:use [clojure.tools.trace]))
 
 (defn merge-arrays

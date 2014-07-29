@@ -1,4 +1,4 @@
-(ns chan-set.core)
+(ns orderly.chan)
 
 (defn sorted-chan [chan &])
 
