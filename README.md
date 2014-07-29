@@ -1,3 +1,6 @@
+<img src="https://raw.github.com/danielcompton/orderly/master/doc/orderly-lines.jpg" style="width: 100%" />
+Photo by [Xevi V](https://www.flickr.com/photos/xevivarela/7788803078).
+
 # Orderly
 
 Orderly is a Clojure library that provides set operations over ordered sequences and core.async channels. This means that you can use set operations like union, difference and intersection without needing to fully realise the sequence/channel first.
