@@ -10,4 +10,5 @@
 (defn difference [chan &])
 
 (defn union [chans &]
-  (core.async/unique (sorted-chan chans)))
+  (sorted-chan chans))
+

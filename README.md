@@ -1,4 +1,6 @@
-# chan-set
+# Rummy
+
+A sequence of ordered sets
 
 A Clojure library designed to ... well, that part is up to you.
 
